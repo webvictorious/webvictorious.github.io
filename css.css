@@ -1,0 +1,25 @@
+.user-image{
+    background-color: #00b983;
+    height: 50px;
+    width: 50px;
+}
+.row-height{
+    
+    height: 150px;
+}
+.outer-div:hover{
+    border: 1px solid #00b983; 
+}
+.user-div{
+    background-color: #00b983;
+    height: 75px;
+    width: 75px;
+}
+.height-div{
+    height: 223px;
+}
+.circle-div{
+    background-color: #00b983;
+    height: 50px;
+    width: 50px;
+}
